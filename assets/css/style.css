@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+#wins {
+    color: rgb(10, 167, 10);
+}
+
+#losses {
+    color: rgb(196, 3, 3);
+}
